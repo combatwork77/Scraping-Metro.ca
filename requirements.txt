@@ -1,0 +1,7 @@
+1. The deliverable is a script that I can run on a mac or linux terminal.
+2. The script should scrape all of the products and their prices from https://www.metro.ca/en/online-grocery/aisles with information such as the product name, quantity and price as per the job description.
+3. Note that each category of products has multiple pages to go through. For example at the bottom of the Fruits and Vegetables section you see there are multiple pages: https://www.metro.ca/en/online-grocery/aisles/fruits-vegetables
+4. The script should be able to go through all the pages.
+5. The produced result is a csv file
+
+Before you produce a CSV with all of the products, can you please produce with about 30 for my review to make sure the product data looks good.
